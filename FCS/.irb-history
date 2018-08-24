@@ -1,0 +1,17 @@
+start-test-server-in-background
+start_test_server_in_background
+labels
+touch('textfield marked: "tfusn"')
+touch("textfield marked: 'tfusn'")
+touch("UITextfield marked: 'tfusn'")
+touch('UITextfield marked: "tfusn"')
+touch('UITextfield marked "tfusn"')
+touch("textfield marked: 'tfusn'")
+touch("UITextfield marked: 'tfusn'")
+touch("UITextField marked: 'tfusn'")
+keyboard_enter_text "The Quick Brown Fox"
+keyboard_enter_text "NMT"
+touch("UITextField marked: 'tfpw'")
+keyboard_enter_text "123456"
+touch("UIButton  marked: 'loginBtn'")
+touch("UIButton  marked: 'bbtn'")
